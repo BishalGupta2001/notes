@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.mainContainer {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  height: 100vh;
+}
+
+.heading {
+  /* position: fixed; */
+  background-color: white;
+  padding: 3rem 8rem;
+}
+
+.defaultText {
+  display: flex;
+  justify-content: center;
+  margin-top: 15rem;
+  background-color: white;
+}
+
+.btn {
+  background-color: white;
+}

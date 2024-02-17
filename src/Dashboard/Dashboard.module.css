@@ -1,0 +1,21 @@
+.mains {
+  position: relative;
+}
+
+.mainContainer {
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+}
+
+.leftContainer {
+  flex: 3;
+  position: relative;
+  background-color: white;
+}
+
+.rightContainer {
+  margin-top: 10rem;
+  flex: 7;
+  background-color: #dae5f5;
+}
